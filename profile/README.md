@@ -26,3 +26,4 @@ Be sure to join our **[Teenage Programmers Discord Server](https://discord.com/i
 - Weekly Coding Challenges
 - Project Collaboration Channels
 - Career Guidance and Learning Resources
+

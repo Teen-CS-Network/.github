@@ -2,7 +2,7 @@
 
 ## Scope of This Notice
 
-This Privacy Policy describes **Teenage Programmers'** privacy practices and provides information about the choices you have regarding the ways in which information collected by **Teenage Programmers** is used and disclosed.
+This Privacy Policy describes **Teenage Programmers** privacy practices and provides information about the choices you have regarding the ways in which information collected by **Teenage Programmers** is used and disclosed.
 
 ## Our Commitment to Privacy
 
