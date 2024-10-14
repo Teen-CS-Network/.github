@@ -1,10 +1,10 @@
 # How to Contribute
 
-We welcome community contributions to help improve the **Teenage Programmers** GitHub repositories! Here's how you can get involved:
+We welcome community contributions to help improve the **Teen CS Network** GitHub repositories! Here's how you can get involved:
 
 ## Contribution Guidelines
 
-1. **Join Our Discord**: For the best experience and to stay updated on discussions, join our [Discord server](https://discord.com/invite/k8JXVddjzt). This is where most collaboration, support, and updates happen. If you're interested in contributing to our GitHub repositories, you can ask a **staff member** for guidance.
+1. **Join Our Discord**: For the best experience and to stay updated on discussions, join our [Discord server](https://discord.gg/rXuh7MxcX2). This is where most collaboration, support, and updates happen. If you're interested in contributing to our GitHub repositories, you can ask a **staff member** for guidance.
 
 3. **Fork the Repository**: Find the relevant repository that you want to contribute to and fork it to your own GitHub account. This creates a copy of the project where you can work on your contributions.
 
@@ -30,5 +30,5 @@ If you encounter any problems or find bugs in our GitHub repositories:
 
 ---
 
-We appreciate your contributions and your effort to make the **Teenage Programmers** community better
+We appreciate your contributions and your effort to make the **Teen CS Network** community better
 
