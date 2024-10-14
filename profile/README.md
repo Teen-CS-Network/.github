@@ -1,4 +1,4 @@
-# 👾 Teenage CS Network
+# 👾 Teen CS Network
 
 Welcome to the official GitHub of the Teen CS Network Discord server! This space is dedicated to fostering collaboration, sharing knowledge, and building exciting projects by and for teenage computer science enthusiasts. Whether you're just starting out or you're an experienced programmer, there's something here for everyone.
 
@@ -17,10 +17,10 @@ We love contributions! If you're interested in contributing, here's how you can 
 2. Make your changes or improvements.
 3. Create a pull request and we'll review it!
 
-For more details on contributing, check out our [Contributing Guidelines](https://github.com/Teenage-Programmers/.github/blob/main/CONTRIBUTING.md).
+For more details on contributing, check out our [Contributing Guidelines](https://github.com/Teen-CS-Network/.github/blob/main/CONTRIBUTING.md).
 
 ## 🗣 Join the Conversation:
-Be sure to join our **[Teenage CS Network Discord Server](https://discord.gg/rXuh7MxcX2)** to connect with the community, discuss projects, and get help with coding!
+Be sure to join our **[Teen CS Network Discord Server](https://discord.gg/rXuh7MxcX2)** to connect with the community, discuss projects, and get help with coding!
 
 ## 🎓 Learn and Grow Together:
 - Weekly Coding Challenges
