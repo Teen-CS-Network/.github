@@ -1,8 +1,8 @@
-# Privacy Policy of Teenage Programmers
+# Privacy Policy of Teen CS Network
 
 ## Scope of This Notice
 
-This Privacy Policy describes **Teenage Programmers** privacy practices and provides information about the choices you have regarding the ways in which information collected by **Teenage Programmers** is used and disclosed.
+This Privacy Policy describes **Teen CS Network** privacy practices and provides information about the choices you have regarding the ways in which information collected by **Teen CS Network** is used and disclosed.
 
 ## Our Commitment to Privacy
 
@@ -16,18 +16,18 @@ We collect personal data when:
 
 - You sign up for an account on any of our services.
 - You subscribe to any of our content, such as newsletters, YouTube videos, etc.
-- You participate in forums, blogs, or other interactive features on our **Teenage Programmers** community platforms.
+- You participate in forums, blogs, or other interactive features on our **Teen CS Network** community platforms.
 - You register for events, webinars, or coding challenges.
 - You submit feedback or contact us via email or through the **Discord server**.
 - You make a purchase or donation related to community events.
-- You contribute to the **Teenage Programmers** projects on GitHub or other platforms.
+- You contribute to the **Teen CS Network** projects on GitHub or other platforms.
 
 ## Types of Information Collected
 
 The information you provide to us may include (depending on the circumstances):
 
 - **Identity and contact data**: Names, email addresses, Discord usernames, or any other contact information.
-- **Account profile data**: Username/display name, password, user preferences, and any profile information you share on the **Teenage Programmers** platforms.
+- **Account profile data**: Username/display name, password, user preferences, and any profile information you share on the **Teen CS Network** platforms.
 - **Financial data**: Payment details, including billing addresses, and other donation-related information.
 - **Skills and experience data**: If you want to contribute to our projects, we may collect information about your skill set, previous experience, and other relevant information.
 - **Visual and audio information**: Photos, videos, or voice recordings shared in public forums or during events.
@@ -45,7 +45,7 @@ We use the personal data you provide to:
 - Process and fulfill any community-related requests, like event registrations or feedback.
 - Monitor account usage to prevent violations of our policies.
 - Identify and authenticate you within the community.
-- Enable communication with other teenage programmers in the community.
+- Enable communication with other teens in the community.
 - Manage our relationship with you, including notifying you about changes to our terms or policies.
 - Conduct community research and produce statistical reports.
 - Answer your questions and provide support through our **Discord server**.
@@ -64,7 +64,7 @@ Unless you consent, we will not process or share your personal data except as de
 
 ## Receiving E-Mail
 
-We may send you emails or Discord notifications to keep you informed about important events, community updates, or other communications related to **Teenage Programmers**. You may receive messages in response to your questions, event registrations, or community participation.
+We may send you emails or Discord notifications to keep you informed about important events, community updates, or other communications related to **Teen CS Network**. You may receive messages in response to your questions, event registrations, or community participation.
 
 ## Public Forums Reminder
 
@@ -72,9 +72,9 @@ We provide forums, blogs, and other interactive features that are accessible to 
 
 ## Contact Information
 
-If you have any questions about this Privacy Policy or our privacy practices, please contact any of the **staff members** via the [Discord server](https://discord.com/invite/k8JXVddjzt).
+If you have any questions about this Privacy Policy or our privacy practices, please contact any of the **staff members** via the [Discord server](https://discord.gg/rXuh7MxcX2).
 
 ---
 
-We are committed to protecting your privacy as part of the **Teenage Programmers** community.
+We are committed to protecting your privacy as part of the **Teen CS Network** community.
 
