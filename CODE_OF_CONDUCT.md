@@ -1,8 +1,8 @@
-# Teenage Programmers Code of Conduct
+# Teen CS Network Code of Conduct
 
 ## Introduction
 
-We are dedicated to providing a welcoming and inclusive environment for everyone. This Code of Conduct outlines our expectations for participant behavior and the consequences for unacceptable behavior. We invite all those who participate in Teenage Programmers to help us create a safe and positive experience for everyone.
+We are dedicated to providing a welcoming and inclusive environment for everyone. This Code of Conduct outlines our expectations for participant behavior and the consequences for unacceptable behavior. We invite all those who participate in Teen CS Network to help us create a safe and positive experience for everyone.
 
 ## Our Standards
 
@@ -33,7 +33,7 @@ If you experience or witness unacceptable behavior, please report it to the comm
 
 ### How to Report
 
-- **Immediate Concerns**: For immediate concerns or ongoing incidents, contact any of the staff on our [Discord server](https://discord.com/invite/k8JXVddjzt) 
+- **Immediate Concerns**: For immediate concerns or ongoing incidents, contact any of the staff on our [Discord server](https://discord.gg/rXuh7MxcX2) 
 - **Detailed Reports**: Provide as much detail as possible, including the date, time, location, and a description of the incident, along with any supporting evidence.
 
 ### Enforcement
@@ -54,4 +54,4 @@ For questions or concerns about this Code of Conduct, please contact any of the 
 
 ## Conclusion
 
-Thank you for helping make Teenage Programmers a welcoming, friendly, and inclusive community for everyone.
+Thank you for helping make Teen CS Network a welcoming, friendly, and inclusive community for everyone.
